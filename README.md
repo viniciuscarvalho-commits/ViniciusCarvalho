@@ -1,35 +1,35 @@
-<h1 align="center">Olá! Eu sou o Vinicius 👋</h1>
+# Vinicius Carvalho Novais
 
-<p align="center">
-  💻 Garoto de 17 anos apaixonado por tecnologia e programação.<br>
-  🚀 Proativo, esforçado e sempre aprendendo algo novo.<br>
-  📈 Buscando crescer como desenvolvedor e contribuir com projetos incríveis.
-</p>
+Estudante de Engenharia de Software na UniAnchieta (Jundiaí), com interesse em desenvolvimento Back-end e foco na linguagem Java.
 
----
+Atualmente, estou desenvolvendo meus conhecimentos em lógica de programação, algoritmos e programação orientada a objetos, buscando aplicar boas práticas na construção de software.
 
-### 🧠 Sobre mim
+Busco uma oportunidade de estágio em Desenvolvimento de Software para colocar meus conhecimentos em prática, adquirir experiência profissional e contribuir com projetos e equipes de desenvolvimento.
 
-- 📚 Atualmente estudando: **[Python]**
-- 🔭 Em busca de **primeiras oportunidades** e projetos reais.
-- 💡 Curioso por tudo que envolve **programação, tecnologia e inovação**.
-- 🎯 Foco em me tornar um **Engenheiro de Software** (full-stack).
-- 📍 Localização: **Santana de Parnaíba, São Paulo - Brasil**
+## Formação Acadêmica
 
+**Bacharelado em Engenharia de Software — UniAnchieta (Jundiaí)**
 
----
+Fevereiro de 2026 – Dezembro de 2029 | Em andamento
 
-### 🛠️ Tecnologias que estou aprendendo
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
+## Conhecimentos
 
----
+**Linguagem**
+- Java
 
-### 🤝 Vamos nos conectar?
+**Conceitos**
+- Lógica de Programação e Algoritmos
+- Programação Orientada a Objetos (POO)
+- Estruturas de Dados (fundamentos)
 
-- 📬 Me chame para conversar, trocar ideias ou colaborar em projetos!
-- 💼 [+55 11 98813-1956]
-- vinicarvalho.novais@gmail.com
+**Estruturas estudadas**
+- Arrays e matrizes
+- Listas e ArrayList
 
----
+**Ferramentas**
+- IntelliJ IDEA
 
-⭐ *Obrigado por visitar meu perfil! Estou só começando, mas com muita vontade de crescer.*  
+## Contato
+
+- E-mail: vinicarvalho.novais@gmail.com
+- WhatsApp: [Entre em contato](https://wa.me/5511988131956)
